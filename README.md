@@ -1,2 +1,2 @@
 # chatterbox
-Real-time chatting application
+Real-time chatting application with media transfer
